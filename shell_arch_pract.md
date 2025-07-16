@@ -1,3 +1,4 @@
+
 Unit 1 – Lesson 1  
 **Topic:** Shell Purpose & Navigation  
 **Level:** Beginner (No prior knowledge required)  
@@ -33,7 +34,7 @@ In your terminal, create a file called shell_intro.sh:
 ```bash
 
 nano shell_intro.sh
-```
+``
 Inside the file, type the following:
 
 ```bash

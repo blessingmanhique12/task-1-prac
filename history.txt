@@ -1,0 +1,115 @@
+reflection.txt  shell_arch_pract.md  shell_arch_task.txt  shell_intro.sh
+
+0610120136086@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch reflection.txt
+
+0610120136086@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo "1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management"> reflection.txt
+
+0610120136086@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ history
+    1  code .
+    2  touch index.html
+    3  touch script.js
+    4  echo
+    5  git add .
+    6  git commit -m "first commit"
+    7  git remote add origin https://github.com/blessingmanhique12/hello-world.git
+    8  echo "# hello-world" >> README.md
+    9  git init
+   10  git add README.md
+   11  git commit -m "first commit"
+   12  git branch -M main
+   13  git remote add origin https://github.com/blessingmanhique12/hello-world.git
+   14  git push -u origin main
+   15  node -v
+   16  mkdir hello-world
+   17  cd hello-world
+   18  git clone https://github.com/blessingmanhique12/hello-world.git
+   19  cd task-1-prac
+   20  code .
+   21  cd hello-world
+   22   ls
+   23  mkdir practice
+   24  cd practice
+   25  echo $null > "practice.txt"
+   26  echo "blessing manhique" > practice.txt
+   27  git pull origin main
+   28  git clone https://github.com/blessingmanhique12/task-1-prac.git
+   29  git pull origin main
+   30  git pull origin main
+   31  cd task-1-prac
+   32  git pull origin main
+   33  code .
+   34  code .
+   35  cd desktop
+   36  cd task-1-prac
+   37  echo "The shell is my translator to the OS"
+   38  pwd
+   39  ls
+   40  cd
+   41  cd Documents
+   42  cd
+   43  cd desktop
+   44  cd task-1-prac
+   45  mkdir shell_intro.sh
+   46  nano shell_intro.sh
+   47  nano shell_intro.sh
+   48  nano shell_intro.sh
+   49  nano shell_intro.sh
+   50  echo "Welcome to the shell"
+   51  nano shell_intro.sh
+   52  nano shell_intro.sh
+   53  echo Welcome to shell
+   54  pwd
+   55  ls
+   56  chmod +x shell_intro.sh
+   57  ./shell_intro.sh
+   58  ./shell_intro.sh
+   59  chmod +x shell_intro.sh
+   60  ./shell_intro.sh
+   61  touch  reflection.txt
+   62  ouch  reflection.txt
+   63  cd desktop
+   64  cd task-1-prac
+   65  echo The shell is translator to the OS
+   66  pwd
+   67  ls
+   68  cd Documents
+   69  cd ..
+   70  echo reflection.txt
+   71  ls
+   72  cd task-1-prac
+   73  ls
+   74  echo  "The shell is my translator to the OS"
+   75  pwd
+   76  ls
+   77  cd ..
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  cd ..
+   82  ls
+   83  ls
+   84  cd task-1-prac
+   85  ls
+   86  echo "The shell is my translator to the OS"
+   87  pwd
+   88  ls
+   89  cd ..
+   90  cd ..
+   91  ls
+   92  cd Documents
+   93  cd ..
+   94  ls
+   95  cd Desktop
+   96  ls
+   97  cd task-1-prac
+   98  nano shell_intro.sh
+   99  chmod +x shell_intro.sh
+  100  ./shell_intro.sh
+  101  ./shell_intro.sh
+  102  touch reflection.txt
+  103  echo "1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management"> reflection.txt
+  104  history
+
