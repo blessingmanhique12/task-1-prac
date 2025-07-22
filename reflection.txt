@@ -1,0 +1,1 @@
+1.To provide a way for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management
