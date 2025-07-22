@@ -1,1 +1,5 @@
-The shell is my translator to the OS
+#!/bin/bash
+# My first shell script
+echo "Welcome to the shell"
+pwd
+ls
